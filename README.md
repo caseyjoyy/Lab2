@@ -25,3 +25,5 @@ i.e.; Details about the output backup file:
 How to run the script: 
 Ensure you have a folder called tmp at the root of your C drive;
 type "./PicBackup.sh" 
+
+Email link sent to partner 10/4 1:11 PM.
